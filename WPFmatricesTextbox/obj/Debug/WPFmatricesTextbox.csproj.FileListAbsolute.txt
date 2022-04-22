@@ -1,0 +1,16 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\bin\Debug\WPFmatricesTextbox.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\bin\Debug\WPFmatricesTextbox.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\bin\Debug\WPFmatricesTextbox.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFmatricesTextbox\WPFmatricesTextbox\obj\Debug\WPFmatricesTextbox.pdb
